@@ -18,7 +18,7 @@ The contact form is integrated with Formspree to receive messages directly via e
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript (optional)
+- JavaScript 
 - Formspree (for contact form backend)
 
 
